@@ -1,0 +1,15 @@
+com\inversionesjrj\core\perm\domain\dto\Rol.class
+com\inversionesjrj\core\perm\domain\dto\RolPermission.class
+com\inversionesjrj\core\perm\domain\CorePermDomain.class
+com\inversionesjrj\core\perm\domain\dto\Module.class
+com\inversionesjrj\core\perm\domain\dto\Permission$PermissionBuilder.class
+com\inversionesjrj\core\perm\domain\dto\Module$ModuleBuilder.class
+com\inversionesjrj\core\perm\domain\dto\AccountDomain.class
+com\inversionesjrj\core\perm\domain\dto\Company.class
+com\inversionesjrj\core\perm\domain\dto\Holding.class
+com\inversionesjrj\core\perm\domain\dto\AccountDomain$AccountDomainBuilder.class
+com\inversionesjrj\core\perm\domain\dto\Company$CompanyBuilder.class
+com\inversionesjrj\core\perm\domain\dto\Holding$HoldingBuilder.class
+com\inversionesjrj\core\perm\domain\dto\Permission.class
+com\inversionesjrj\core\perm\domain\dto\Rol$RolBuilder.class
+com\inversionesjrj\core\perm\domain\dto\RolPermission$RolPermissionBuilder.class
